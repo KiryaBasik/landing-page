@@ -51,4 +51,4 @@
 Клонируйте репозиторий и откройте файл `main.html` в браузере:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/KiryaBasik/landing-page.git
