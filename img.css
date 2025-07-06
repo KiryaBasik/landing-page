@@ -1,0 +1,83 @@
+.social .whatsapp {
+  background-color: #25D366;
+  background-image: url('whatsapp-icon.svg');
+}
+
+.social .telegram {
+  background-color: #0088CC;
+  background-image: url('telegram-icon.svg');
+}
+
+.whatsapp {
+  background-color: #25D366;
+  background-image: url('whatsapp-icon.svg');
+}
+
+.telegram {
+  background-color: #0088CC;
+  background-image: url('telegram-icon.svg');
+}
+/* === Фоновые изображения для каждой карточки === */
+.layout-help {
+  background-image: url('img/fon1.jpg');
+}
+
+.discount-10 {
+  background-image: url('img/fon1.jpg');
+}
+
+.samples {
+  background-image: url('img/fon1.jpg');
+}
+
+
+/* === Фон для тел.номера=== */
+.calculator-bg {
+  position: absolute;
+  inset: 0;
+  background: url('img/fon1.jpg') center/cover no-repeat;
+  opacity: 0.3;
+  z-index: 0;
+}
+
+/* === Фон для блока с заказом=== */
+.urgent-order-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  background-image: url('img/back_2.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  border-radius: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem 5rem;
+  box-sizing: border-box;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+/* === Фон от иконок=== */
+.phone-icon {
+  background-image: url('img/Group_128_1.svg');
+}
+
+.mail-icon {
+  background-image: url('img/Group_128_2.svg');
+}
+
+.location-icon {
+  background-image: url('img/Group_128_3.svg');
+}
+
+.whatsapp {
+  background-image: url('img/Group_2296_1.svg');
+}
+
+.telegram {
+  background-image: url('img/Group_2297_1.svg');
+}
+
