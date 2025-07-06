@@ -1,44 +1,45 @@
-# 🎨 Сайт «Печать этикеток»
+# 🎨 Label Printing Landing Page
 
-Адаптивный лендинг для печати этикеток на все виды продукции. Сделан с использованием чистого HTML, CSS и JavaScript. Включает каталог продукции, форму расчёта стоимости и квиз.
-
----
-
-## 🌟 Основные возможности
-
-- Полностью адаптивный дизайн
-- Каталог с карточками товаров
-- Квиз из 5 шагов с формой заказа
-- Анимированные разделы
-- Секция партнёров с каруселью
-- Интерактивные кнопки и плавные переходы
+A responsive landing page for label printing on all types of products. Built with pure HTML, CSS, and JavaScript. Includes a product catalog, price calculator form, and quiz.
 
 ---
 
-## 📸 Скриншоты
+## 🌟 Features
 
-*(Добавь сюда свои картинки — сохрани их в папке `/assets/screenshots` и замени пути)*
+- Fully responsive design
+- Product catalog with cards
+- 5-step quiz with order form
+- Animated sections on scroll
+- Partners section with carousel
+- Interactive WhatsApp and Telegram buttons
 
-### 🏠 Главная страница
-![Главная](./assets/screenshots/home.png)
-
-### 📚 Каталог продукции
-![Каталог](./assets/screenshots/catalog.png)
-
-### ✅ Форма квиза
-![Квиз](./assets/screenshots/quiz.png)
-
-### ✅ Форма квиза
-![Квиз](./assets/screenshots/WhyWe.png)
-
-### ✅ Форма квиза
-![Квиз](./assets/screenshots/Deliever.png)
-
-### ✅ Форма квиза
-![Квиз](./assets/screenshots/footer.png)
 ---
 
-## 💻 Технологии
+## 📸 Screenshots
+
+*(Add your images to `/assets/screenshots` and replace the paths below)*
+
+### 🏠 Home Page
+![Home](./assets/screenshots/home.png)
+
+### 📚 Product Catalog
+![Catalog](./assets/screenshots/catalog.png)
+
+### ✅ Quiz Form
+![Quiz](./assets/screenshots/quiz.png)
+
+### 💡 Why Us Section
+![Why Us](./assets/screenshots/WhyWe.png)
+
+### 🚚 Delivery Section
+![Delivery](./assets/screenshots/Deliever.png)
+
+### 📞 Footer
+![Footer](./assets/screenshots/footer.png)
+
+---
+
+## 💻 Technologies Used
 
 - HTML5
 - CSS3
@@ -46,9 +47,9 @@
 
 ---
 
-## 🚀 Запуск локально
+## 🚀 Running Locally
 
-Клонируйте репозиторий и откройте файл `main.html` в браузере:
+Clone the repository and open `main.html` in your browser:
 
 ```bash
 git clone https://github.com/KiryaBasik/landing-page.git
